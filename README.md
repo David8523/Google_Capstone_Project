@@ -13,7 +13,7 @@ _This document is created as part of the capstone project of the Google Data Ana
 1. [Introduction and Scenario](#introduction-and-scenario)
 2. [ASK](#ask)
 3. [Data Preparation](#data-preparation)
-4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
+4. [Cleaning and Manipulation](#cleaning-and-manipulation)
 
 
 ## Introduction and Scenario
@@ -42,4 +42,5 @@ This comparison along with other tasks will later be used by marketing departmen
 * **end_lng**: Longitude of the end location
 * **member_casual**: Type of membership, either casual or member
 
-## [Fourth Example](http://www.fourthexample.com)
+## Cleaning and manipulation
+  
