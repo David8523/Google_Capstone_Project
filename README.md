@@ -15,7 +15,8 @@ _This document is created as part of the capstone project of the Google Data Ana
 3. [Data Preparation](#data-preparation)
 4. [Cleaning and Manipulation](#cleaning-and-manipulation)
 5. [Analysis](#analysis)
-6. [Recomendations](#recomendations)
+6. [Visualization](#visualization)
+7. [Recomendations](#recomendations)
 
 
 ## Introduction and Scenario
@@ -79,6 +80,8 @@ This comparison along with other tasks will later be used by marketing departmen
 * **Overall, Casual riders take less number of ride but for longer durations**. Casual users take 16% less rides than Members but for 3x longer rides
 * **Casual Riders are most active on Weekends (1.6x) and take longer rides**. Their most active on Saturday and holidays.
 * **On Peak July, average duration of casual members is 3x more than members**
+ ## Visualization
+ I have chosen Tableau as a tool to visualize the data and share my insghts. I have made a dashboard that you can see [here](https://public.tableau.com/app/profile/david.de.la.iglesia/viz/CyclisticBikeShareCaseStudy_16590362027680/Dashboard1)
 ## Recomendations:
 * Create collaborations with different entertainment and tourism companies to take advantage of the vacation season. These collaborations can be touristic tours around the city, group tours, etc
 * Know the most popular bike stations. Understand why they are popular and try to replicate them in other neighborhoods by advertising and marketing.
