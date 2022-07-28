@@ -26,7 +26,8 @@ _This document is created as part of the capstone project of the Google Data Ana
 This comparison along with other tasks will later be used by marketing department for developing strategies aimed at converting casual riders into members
 
 ## Data Preparation
-  
+  The data that I used was the Cyclistic’s historical trip data from 2021 (Ene-2021 to Dec-2021). The data is available on this [link](https://divvy-tripdata.s3.amazonaws.com/index.html).
+  ### Variables Names
 * **ride_id**: Unique id of each ride trip
 * **rideable_type**: Type of bicycle ride, split between 3 categories — classic, docked, and electric
 * **started_at**: Date and time of the start of the trip
