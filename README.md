@@ -43,4 +43,13 @@ This comparison along with other tasks will later be used by marketing departmen
 * **member_casual**: Type of membership, either casual or member
 
 ## Cleaning and manipulation
+  We need to clean and manipulate the data to ensure certain quality before we proceed to the Analysis and the Visualization. The tools used in this case are **Python, Google Sheets and Tableau.**
+  ### Python
+  1. Import the necessary libraries
   
+  ```import pandas as pd```
+  
+  2. Merging every monthly CSV into one
+  
+  ```Cyclistic_Data_2021 = pd.concat(
+    map(pd.read_csv, ['202101-divvy-tripdata.csv', '202102-divvy-tripdata.csv','202103-divvy-tripdata.csv','202104-divvy-tripdata.csv','202105-divvy-tripdata.csv','202106-divvy-tripdata.csv','202107-divvy-tripdata.csv','202108-divvy-tripdata.csv','202109-divvy-tripdata.csv','202110-divvy-tripdata.csv','202111-divvy-tripdata.csv','202112-divvy-tripdata.csv']), ignore_index=True)
