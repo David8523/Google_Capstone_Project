@@ -14,6 +14,7 @@ _This document is created as part of the capstone project of the Google Data Ana
 2. [ASK](#ask)
 3. [Data Preparation](#data-preparation)
 4. [Cleaning and Manipulation](#cleaning-and-manipulation)
+5. [Analysis](#analysis)
 
 
 ## Introduction and Scenario
@@ -73,3 +74,6 @@ This comparison along with other tasks will later be used by marketing departmen
   ```
   Cyclistic_Data_2021['day_of_week'] = Cyclistic_Data_2021['started_at'].dt.day_name()
   ```
+  ## Analysis
+* **Overall, Casual riders take less number of ride but for longer durations**. Casual users take 16% less rides than Members but for 3x longer rides
+* ** Casual Riders are most active on Weekends (1.6x) and take longer rides 
