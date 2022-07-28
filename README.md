@@ -76,4 +76,5 @@ This comparison along with other tasks will later be used by marketing departmen
   ```
   ## Analysis
 * **Overall, Casual riders take less number of ride but for longer durations**. Casual users take 16% less rides than Members but for 3x longer rides
-* ** Casual Riders are most active on Weekends (1.6x) and take longer rides 
+* **Casual Riders are most active on Weekends (1.6x) and take longer rides**. Their most active on Saturday and holidays.
+* **On Peak July, average duration of casual members is 3x more than members**
