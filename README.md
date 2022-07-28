@@ -11,8 +11,8 @@ _This document is created as part of the capstone project of the Google Data Ana
 
   ## Table of Contents
 1. [Introduction and Scenario](#introduction-and-scenario)
-2. [ASK](#ASK)
-3. [Third Example](#third-example)
+2. [ASK](#ask)
+3. [Data Preparation](#data-preparation)
 4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
 
 
@@ -25,5 +25,20 @@ _This document is created as part of the capstone project of the Google Data Ana
   Identify and understand the bike usage among annual members and casual riders in order to suggest marketing strategies to convert casual riders into annual members.
 This comparison along with other tasks will later be used by marketing department for developing strategies aimed at converting casual riders into members
 
-## Third Example
+## Data Preparation
+  
+* **ride_id**: Unique id of each ride trip
+* **rideable_type**: Type of bicycle ride, split between 3 categories — classic, docked, and electric
+* **started_at**: Date and time of the start of the trip
+* **ended_at**: Date and time of the end of the trip
+* **start_station_name**: Start station name
+* **start_station_id**: Start station id
+* **end_station_name**: Endstation name
+* **end_station_id**: Endstation id
+* **start_lat**: Latitude of the start location
+* **start_lng**: Longitude of the start location
+* **end_lat**: Latitude of the end location
+* **end_lng**: Longitude of the end location
+* **member_casual**: Type of membership, either casual or member
+
 ## [Fourth Example](http://www.fourthexample.com)
