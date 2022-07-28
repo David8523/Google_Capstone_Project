@@ -5,7 +5,7 @@ width="350"
 height="300"
 </p>
 
-# **Cyclistic Bike-Share: Case Study**
+# **Cyclistic Bike Share: Case Study**
 
 _This document is created as part of the capstone project of the Google Data Analytics Professional Certificate._
 
